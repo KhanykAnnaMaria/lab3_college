@@ -49,6 +49,6 @@ print("\nVector Operations:") print("Sum:", sum_vector) print("Difference:", dif
 
 print("\nMatrix Operations:") print("Sum:\n", sum_matrix) print("Difference:\n", difference_matrix) print("Elementwise Product:\n", elementwise_product_matrix) print("Matrix Product:\n", matrix_product)
 
-https://github.com/nastya-kryhzanivskya/lab3/blob/main/lab3.ipynb
+[https://github.com/nastya-kryhzanivskya/lab3/blob/main/lab3.ipynb](https://github.com/KhanykAnnaMaria/lab3_college/blob/main/1lab.ipynb)
 
 Висновок: Попрактикувалась з бібліотекою NumPy, виконала завдання та завантажити їх у репозиторій
